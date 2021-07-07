@@ -15,4 +15,4 @@ c. queue.c - Functions to create and manage a FIFO queue
 d. queue_test.c - The program is to test the data structure of node and fifo queue
             whether the queue is operated as expected.
             
-run make on linux to test the programs.
+run make on linux to compile the programs.
