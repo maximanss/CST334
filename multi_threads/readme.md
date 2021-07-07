@@ -10,4 +10,4 @@ c. matrix_multiplication.c - In this program it will use threads to perform a pa
         Matrix A x Matrix B = Matrix C.
         Each thread is to compute and store each column value of a row in matrix C.
         
-To run the programs on Linux: make
+To compile the programs on Linux: make
